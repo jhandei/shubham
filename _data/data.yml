@@ -39,7 +39,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Seniord Software Developer, building scalable systems since 2013
+      Senior Software Developer with total experience of 7+ years
+      
       
 education:
     - degree: BTech in Computer Science
@@ -49,40 +50,94 @@ education:
         BTech in Computer Science
           
 experiences:
-    - role: Lead Developer
-      time: 2013 - 2015
+    - role: Senior Software Engineer
+      time: Apr 2018 – Present
+      company: Chegg India Pvt. Ltd., New Delhi
+      details: |
+        - Design and developed a system to replace the Third-Party tool used while creating an MVP of the chat system.
+        - Part of the architectural design team, to build a chat system from scratch and own development of 2 out of 5 major components in it.
+        - Dockerizedcomponentstostabilizelegacysystem
+        - Optimized top time heavy queries,reducing time to atleast 70%.
+        - Developed a strong Monitoring System, in order to find issues and bottlenecks.
+
+
+    - role: Senior Software Engineer
+      time: Jan 2018 – Mar 2018
+      company: Bonavita Technologies (gofro.com), New Delhi
+      details: |
+        - Build the first phase of Lead Scoring system which would have been powered by machine learning.
+        - Responsible to build a system to remove third-party tools in order to reduce company expenses.
+
+    - role: Software Engineer II / Android Developer
+      time: June 2016 - Dec 2017
+      company: Valuevest Technologies Pvt. Ltd., Mumbai
+      details: |
+        - Developed Android App from scratch.
+        - Developed backend system from scratch with a team of 3.
+        - Responsible for end to end development and deployment of features.
+        - Developed systems like Search, News Section, Transaction Management, Customer Portfolio Management, Content Management.
+
+
+    - role: Product Engineer 
+      time: Dec 2015 - Jun 2016
+      company: Arpiring Minds Pvt. Ltd., Gurgaon
+      details: |
+        - Revamped two of the core products
+
+    - role: Software Engineer
+      time: May 2015 - Nov 2015
+      company: Shipler Technologies Pvt. Ltd., Mumbai
+      details: |
+        - Owned the whole backend system
+        - Responsible for designing architecture, database structure, API Endpoints.
+        
+ 
+
+    - role: Software Engineer
+      time: June 2013 - Apr 2015
       company: snapdeal.com, New Delhi
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        - Actively involved in system architecture and design process.
+        - Developed document Indexer system.
+        - Explored and developed different types of SOLR filters and implemented an efficient combination of them to solve the purpose.
+        - Developed Documents re-Indexing System, with whole or selective Database, with an efficiency of 10 million entries per hour with a Database size of 16 million entries of 4GB size.
+        - Implemented a Monitoring System using Graphite.
  
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I also spend some time to create hobby Android apps
     assignments:
       - title: Piggy - The Mutual Fund App
-        link: "#hook"
+        link: "#"
         tagline: "App to manage end-to-end mutual funds requirements"
+        
+      - title: Book Bank
+        link: "#"
+        tagline: "Marketplace for book lenders and takers"
 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python, Java, Unix
-        level: 88%
+      - name: Python, Java
+        level: 85%
+      
+      - name: Elastic Search, SOLR 
+        level: 65%
+        
+      - name: System Design, Database 
+        level: 85%
+        
+      - name: Docker
+        level: 85%
+        
+      - name: Android
+        level: 55%
+        
+      - name:  ML/AI
+        level: 35%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
