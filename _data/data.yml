@@ -50,8 +50,14 @@ education:
         BTech in Computer Science
           
 experiences:
+    - role: Computer Scientist 2
+      time: Dec 2020 - Present
+      company: Adobe India, Noida
+      details: |
+        - Part of Adobe Campaign Team
+
     - role: Senior Software Engineer
-      time: Apr 2018 – Present
+      time: Apr 2018 – Dec 2020
       company: Chegg India Pvt. Ltd., New Delhi
       details: |
         - Design and developed a system to replace the Third-Party tool used while creating an MVP of the chat system.
