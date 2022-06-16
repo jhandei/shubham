@@ -39,7 +39,7 @@ career-profile:
     title: Career Profile
     summary: |
       Solving Problems since 2000
-      I am fast learner, problem solver and always keen to create things together. I bring my knowledge from various business domains like Ecommerce, education, finance and marketing.
+      I am a fast learner, and problem solver and always keen to create things together. I bring my knowledge from various business domains like eCommerce, education, finance and marketing.x`
 
 education:
     - degree: BTech in Computer Science
@@ -54,25 +54,21 @@ experiences:
       company: Adobe India, Noida
       stack: Java, Spring Reactive, Graphql (Nodejs and DGS), React JS
       details: |
-        - Helping team of 6, to create great system.
+        - Helping a team of 6, to create great systems
         - Working towards achieving company goals
         - Along with keeping team personal goals in mind
-        - Successfully completed 6 month milestons
-        - Successfully completed a high priority task with tight deadlines with not much clarity
-        - Responsible for coordinating with other teams to get things done.
+        - Handles end-to-end delivery of landing pages in AJO along with UI of Channels section
 
     - role: Senior Software Engineer
       time: Apr 2018 – Dec 2020
       company: Chegg India Pvt. Ltd., New Delhi
       stack: Python, Django, Java, Spring
       details: |
-        - Worked towards stability of old monolithic service by various steps like
-        -- Optimizing Top 15 queries, by atleast 70% load time
-        -- Extracting few components and made a microservice out of them
-        - Primary architect designer, for a new system to build a chat system from scratch.
+        - Worked towards the stability of old monolithic service by various steps like – Optimizing Top 15 queries, by at least 70% load time, Extracting a few components and making a microservice out of them
+        - Primary architect-designer, for a new system to build a chat system from scratch.
         - With the help of 2 colleagues, built 2 out of 4 major components in it.
         - Design and developed a system to replace the Third-Party tool used while creating an MVP of the chat system.
-        - Developed a strong Monitoring System, in order to find issues and bottlenecks.
+        - Developed a strong Monitoring System, to find issues and bottlenecks.
 
 
     - role: Senior Software Engineer
@@ -80,30 +76,28 @@ experiences:
       company: Bonavita Technologies (gofro.com), New Delhi
       stack: Java, Spring
       details: |
-        - In a span of 3 weeks, learnt ML, explored few approaches and built first phase of algorithm driven Lead Sating System.
-        - Responsible to understand the existing, to build a system to remove third-party tools in order to reduce company expenses.
+        - In 3 weeks, learnt ML, explored a few approaches and built the first phase of the algorithm-driven Lead Sating System.
+        - Responsible to understand the existing, to building a system to remove third-party tools to reduce company expenses.
 
     - role: Software Engineer II / Android Developer
       time: June 2016 - Dec 2017
       company: Valuevest Technologies Pvt. Ltd., Mumbai
       stack: Python, Django, Android Development (Java)
       details: |
-        - Took ownership of developing/maintaining Android App.
+        - Took ownership of developing/maintaining the Android App.
         - Developed backend system from scratch with a team of 3.
-        - Responsible for end to end development and deployment of features.
-        - Developed systems like Search, News Section, Transaction Management, Customer Portfolio Management, Content Management.
-        - Responsible for end to end process, ideation to deployment of features
+        - Responsible for end-to-end development and deployment of features.
+        - Developed systems like Search, News Section, Transaction Management, Customer Portfolio Management, and Content Management.
+        - Responsible for the end-to-end process, ideation to deployment of features
 
 
     - role: Product Engineer 
       time: Dec 2015 - Jun 2016
-      company: Arpiring Minds Pvt. Ltd., Gurgaon
+      company: Aspiring Minds Pvt. Ltd., Gurgaon
       stack: PHP
       details: |
         - Worked for 4 months, was responsible for understanding complex grading system
-        - Revamped two of the core products
-        -- SVAR: Speech grading system
-        -- AMCAT
+        - Revamped two of the core products – SVAR: Speech grading system and AMCAT
 
 
     - role: Software Engineer
@@ -112,38 +106,38 @@ experiences:
       stack: Python, Django, Mysql
       details: |
         - Owned the whole backend system
-        - Responsible for end to end development, system designing, database strucure, testing and deployment.
+        - Responsible for end-to-end development, system designing, database structure, testing and deployment.
         
  
 
     - role: Software Engineer
       time: June 2013 - Apr 2015
       company: Seller Search, snapdeal.com, New Delhi
-      stack: Python, Java, Spring, SOLR, Mongo, RabbitMQ
+      stack: Python, Java, Spring, Solr, Mongo, RabbitMQ
       details: |
         - Joined as fresher
-        - Part for seller search team
+        - Part of Seller Search team
         - Developed Documents re-Indexing System, with whole or selective Database, with an efficiency of 10 million entries per hour with a Database size of 16 million entries of 4GB size.
         - Built system from scratch.
         - Explored and developed different types of SOLR filters and implemented an efficient combination of them to solve the purpose.
         - Implemented a Monitoring System using Graphite.
         - Actively involved in system architecture and design process.
-        - Built inventory management and pricing system for various books vendors.
-        - Built various scripts to automate manual work of business teams.
+        - Built inventory management and pricing system for various book vendors.
+        - Built various scripts to automate the manual work of business teams.
 
  
-projects:
-    title: Projects
-    intro: >
-      I also spend some time to create hobby Android apps
-    assignments:
-      - title: Piggy - The Mutual Fund App
-        link: "#"
-        tagline: "App to manage end-to-end mutual funds requirements"
-        
-      - title: Book Bank
-        link: "#"
-        tagline: "Marketplace for book lenders and takers"
+#projects:
+#    title: Projects
+#    intro: >
+#      I also spend some time to create hobby Android apps
+#    assignments:
+#      - title: Piggy - The Mutual Fund App
+#        link: "#"
+#        tagline: "App to manage end-to-end mutual funds requirements"
+#
+#      - title: Book Bank
+#        link: "#"
+#        tagline: "Marketplace for book lenders and takers"
 
 
 skills:
