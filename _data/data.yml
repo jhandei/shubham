@@ -49,12 +49,19 @@ education:
         Holds BTech (Computer Scient) degree
           
 experiences:
-    - role: Computer Scientist 2
-      time: Dec 2020 - Present
+    - role: Engineering Manager - 2
+      time: Feb 2023 - Present
       company: Adobe India, Noida
       stack: Java, Spring Reactive, Graphql (Nodejs and DGS), React JS
       details: |
-        - Item Leading a team of 6, to build new features in landing pages and Admin UI in AJO.
+        -
+
+    - role: Computer Scientist 2
+      time: Dec 2020 - Jan 2023
+      company: Adobe India, Noida
+      stack: Java, Spring Reactive, Graphql (Nodejs and DGS), React JS
+      details: |
+        - Lead a team of 6, to build new features in landing pages and Admin UI in AJO.
         - Communicated with stakeholders to understand business initiatives, set road maps, and determine software requirements.
         - Contribute in architecture and design reviews for tasks that require complex solutions
 
@@ -63,11 +70,10 @@ experiences:
       company: Chegg India Pvt. Ltd., New Delhi
       stack: Python, Django, Java, Spring
       details: |
-        - Worked towards the stability of old monolithic service by various steps like – Optimizing Top 15 queries, by at least 70% load time, Extracting a few components and making a microservice out of them
-        - Primary architect-designer, for a new system to build a chat system from scratch.
-        - With the help of 2 colleagues, built 2 out of 4 major components in it.
-        - Design and developed a system to replace the Third-Party tool used while creating an MVP of the chat system.
-        - Developed a strong Monitoring System, to find issues and bottlenecks.
+        - Designed a new chat system in order to fulfill new business requirements.
+        - With a team of 2 colleagues, built 2 out of 4 major components of the above mentioned chat system.
+        - Developed a strong Monitoring System, to find issues and bottlenecks in a legacy system.
+        - Responsible towards the stability of a legacy monolithic service
 
 
     - role: Senior Software Engineer
@@ -75,18 +81,18 @@ experiences:
       company: Bonavita Technologies (gofro.com), New Delhi
       stack: Java, Spring
       details: |
-        - In 3 weeks, learnt ML, explored a few approaches and built the first phase of the algorithm-driven Lead Sating System.
-        - Responsible to understand the existing, to building a system to remove third-party tools to reduce company expenses.
+        - In a very short span of 3 weeks, built first phase of an algorithm-driven Lead Sating System.
+        - In order to reduce company expenses, build an in-house system to remove third-party tool.
 
     - role: Software Engineer II / Android Developer
       time: June 2016 - Dec 2017
-      company: Valuevest Technologies Pvt. Ltd., Mumbai
+      company: Valuevest Technologies Pvt. Ltd., Mumbai (Piggy Mutual Fund App)
       stack: Python, Django, Android Development (Java)
       details: |
-        - Took ownership of developing/maintaining the Android App.
-        - Developed backend system from scratch with a team of 3.
-        - Responsible for end-to-end development and deployment of features.
-        - Developed systems like Search, News Section, Transaction Management, Customer Portfolio Management, and Content Management.
+        - Own of development and maintenance of their Android App
+        - At various position, helped operations team in automating their processes
+        - Developed backend system from ground up as a team of 3
+        - Developed systems like Search, News Section, Transaction Management, Customer Portfolio Management, and Content Management
         - Responsible for the end-to-end process, ideation to deployment of features
 
 
@@ -95,35 +101,29 @@ experiences:
       company: Aspiring Minds Pvt. Ltd., Gurgaon
       stack: PHP
       details: |
-        - Worked for 4 months, was responsible for understanding complex grading system
-        - Revamped two of the core products – SVAR: Speech grading system and AMCAT
-
+        - In a short span of 4 months, was understood complex grading system
+        - And revamped two core legacy products – SVAR: Speech grading system and AMCAT
 
     - role: Software Engineer
       time: May 2015 - Nov 2015
       company: Shipler Technologies Pvt. Ltd., Mumbai
       stack: Python, Django, Mysql
       details: |
-        - Owned the whole backend system
+        - Single Handedly designed, developed and maintained backend system
         - Responsible for end-to-end development, system designing, database structure, testing and deployment.
-        
- 
 
     - role: Software Engineer
       time: June 2013 - Apr 2015
       company: Seller Search, snapdeal.com, New Delhi
       stack: Python, Java, Spring, Solr, Mongo, RabbitMQ
       details: |
-        - Joined as fresher
-        - Part of Seller Search team
+        - Built a search system for sellers from the ground up using SOLR.
+        - Participated in system architecture and designing.
         - Developed Documents re-Indexing System, with whole or selective Database, with an efficiency of 10 million entries per hour with a Database size of 16 million entries of 4GB size.
-        - Built system from scratch.
         - Explored and developed different types of SOLR filters and implemented an efficient combination of them to solve the purpose.
-        - Implemented a Monitoring System using Graphite.
-        - Actively involved in system architecture and design process.
         - Built inventory management and pricing system for various book vendors.
-        - Built various scripts to automate the manual work of business teams.
-
+        - Built scripts to automate different process of various business teams.
+        - Implemented a Monitoring System using Graphite.
  
 #projects:
 #    title: Projects
